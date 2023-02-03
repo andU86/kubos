@@ -1,2 +1,2 @@
 # kubos
-kubos homeage
+kubos homepage
